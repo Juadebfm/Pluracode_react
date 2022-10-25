@@ -52,7 +52,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 Made with :heart: by <a href="https://github.com/Juadebfm" target="_blank">Juadebfm</a>
 
