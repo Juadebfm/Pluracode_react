@@ -5,13 +5,7 @@
 
 </div>
 
-<h1 align="center">Bootstrap</h1>
-
-<!-- Status -->
-
-<!-- <h4 align="center">
-	🚧  Bootstrap 🚀 Under construction...  🚧
-</h4>
+<h1 align="center">Pluracode React</h1>
 
 <hr> -->
 
@@ -29,7 +23,7 @@
 
 ## :dart: About
 
-Describe your project
+I created this same page using this website REACTJS/TAILWINDCSS & HTML/BOOTSTRAPCSS
 
 ## :sparkles: Features
 
