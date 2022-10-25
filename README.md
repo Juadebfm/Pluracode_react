@@ -7,17 +7,6 @@
 
 <h1 align="center">Bootstrap</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Juadebfm/bootstrap?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Juadebfm/bootstrap?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Juadebfm/bootstrap?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/Juadebfm/bootstrap?color=56BEB8">
-
-</p>
-
 <!-- Status -->
 
 <!-- <h4 align="center">
@@ -65,7 +54,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/Juadebfm" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/Juadebfm" target="_blank">Juadebfm</a>
 
 &#xa0;
 
