@@ -9,57 +9,57 @@ const Hero = () => {
           Let’s Build Something amazing with GPT-3 OpenAI
         </h1>
 
-        <p className="text-[#81AFDD] text-center md:text-left mt-8 text-xl w-2/3 font-thin">
+        <p className="text-[#81AFDD] text-center md:text-left mt-8 text-xl md:w-2/3 font-thin">
           Yet bed any for travelling assistance indulgence unpleasing. Not
           thoughts all exercise blessing. Indulgence way everything joy
           alteration boisterous the attachment. Party we years to order allow
           asked of.
         </p>
 
-        <div className="flex mt-8 md:w-3/4 ">
+        <div className="flex flex-col gap-3 mt-8 w-full md:w-3/4">
           <input
             type="text"
-            className="bg-[#052D56] placeholder-slate-500 pl-4 md:pl-[14px]  flex-1"
+            className="bg-[#052D56] placeholder-slate-500 py-3 pl-4 md:pl-[14px] rounded-lg flex-1"
             placeholder="Your Email Addess"
           />
-          <button className="bg-[#FF4820] text-white px-6 py-4">
+          <button className="bg-[#FF4820] text-white px-6 py-4 rounded-2xl">
             Get Started
           </button>
         </div>
 
-        <div className="flex gap-4 items-center mt-8 w-full">
+        <div className="flex gap-[2rem] items-center mt-8 w-full">
           <div className="flex -space-x-2  ">
             <img
-              className="inline-block h-8 w-8 rounded-full ring-2 ring-white"
+              className="inline-block h-6 w-6 rounded-full ring-2 ring-white"
               src="https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
             <img
-              className="inline-block h-8 w-8 rounded-full ring-2 ring-white"
+              className="inline-block h-6 w-6 rounded-full ring-2 ring-white"
               src="https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
             <img
-              className="inline-block h-8 w-8 rounded-full ring-2 ring-white"
+              className="inline-block h-6 w-6 rounded-full ring-2 ring-white"
               src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=256&h=256&q=80"
               alt=""
             />
             <img
-              className="inline-block h-8 w-8 rounded-full ring-2 ring-white"
+              className="inline-block h-6 w-6 rounded-full ring-2 ring-white"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
             <img
-              className="inline-block h-8 w-8 rounded-full ring-2 ring-white"
+              className="inline-block h-6 w-6 rounded-full ring-2 ring-white"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
             <img
-              className="inline-block h-8 w-8 rounded-full ring-2  ring-white"
+              className="inline-block h-6 w-6 rounded-full ring-2  ring-white"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
-            <div className=" flex h-8 w-8 items-center justify-center rounded-full ring-2 bg-teal-600 ring-white text-[8px] text-white">
+            <div className=" flex h-6 w-6 items-center justify-center rounded-full ring-2 bg-teal-600 ring-white text-[8px] text-white">
               +1000
             </div>
           </div>
@@ -70,7 +70,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="flex-1 w-1/2 md:w-full items-center justify-center flex">
+      <div className="flex-1 md:w-full items-center justify-center flex">
         <img src={Head} className="w-full" alt="head of ai" />
       </div>
     </div>

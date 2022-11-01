@@ -18,7 +18,7 @@ const Blog = () => {
             <img className="object-cover" src={Blog4} alt="" />
           </div>
 
-          <div className="flex flex-col justify-between h-96  bg-[#042C54] p-6">
+          <div className="flex flex-col justify-between md:h-96  bg-[#042C54] p-6">
             <div className="">
               <span className="text-white">Sep 26, 2021</span>
               <p className="text-white mt-2">
@@ -26,7 +26,7 @@ const Blog = () => {
               </p>
             </div>
 
-            <span className="text-white text-xs">Read Full Article</span>
+            <span className="text-white text-xs mt-4">Read Full Article</span>
           </div>
         </div>
 
