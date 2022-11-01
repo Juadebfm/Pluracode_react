@@ -11,7 +11,7 @@ import What from "./components/what";
 function App() {
   return (
     <>
-      <div className="container relative mx-[3rem] h-screen w-screen">
+      <div className="container relative mx-[2rem] h-screen w-screen">
         <Header />
         <Hero />
 
