@@ -13,17 +13,17 @@ const Footer = () => {
       </div>
 
       <div className="md:grid md:grid-cols-5  mt-10 p-10">
-        <div className="md:col-span-2 flex flex-col items-center md:items-start md:ml-20">
+        <div className="md:col-span-2 flex flex-col items-start md:items-start md:ml-20">
           <h1 className="text-white font-extrabold text-5xl">GPT-3</h1>
-          <p className="text-white w-1/2 mt-2 text-sm">
+          <p className="text-white w-1/2 mt-2 text-[13px]">
             Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved
           </p>
         </div>
 
-        <div className="hidden md:block">
-          <span className="text-white">Links</span>
+        <div className="md:block mt-5 md:mt-0">
+          <span className="text-white text-2xl">Links</span>
 
-          <ul className="mt-4 text-white  text-xs">
+          <ul className="mt-1 md:mt-4 text-white text-xs">
             <li>Overons</li>
             <li>Social Media</li>
             <li>Counters</li>
@@ -31,10 +31,10 @@ const Footer = () => {
           </ul>
         </div>
 
-        <div className="hidden md:block">
-          <span className="text-white">Company</span>
+        <div className="md:block mt-5 md:mt-0">
+          <span className="text-white text-2xl">Company</span>
 
-          <ul className="mt-4 text-white  text-xs">
+          <ul className="mt-1 md:mt-4 text-white text-xs">
             <li>Contact</li>
 
             <li>Privacy Policy</li>
@@ -43,10 +43,10 @@ const Footer = () => {
           </ul>
         </div>
 
-        <div className="hidden md:block">
-          <span className="text-white">Get in touch</span>
+        <div className="md:block mt-5 md:mt-0">
+          <span className="text-white text-2xl">Get in touch</span>
 
-          <ul className="mt-4 text-white  text-xs">
+          <ul className="mt-1 md:mt-4 text-white text-xs">
             <li>Crechterwoord K12 182 DK Alknjkcb</li>
             <li>085-132567</li>
             <li>info@payme.net</li>

@@ -16,7 +16,7 @@ const Hero = () => {
           asked of.
         </p>
 
-        <div className="flex flex-col gap-3 mt-8 w-full md:w-3/4">
+        <div className="flex flex-col lg:flex-row gap-3 mt-8 w-full md:w-3/4">
           <input
             type="text"
             className="bg-[#052D56] placeholder-slate-500 py-3 pl-4 md:pl-[14px] rounded-lg flex-1"
