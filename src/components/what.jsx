@@ -3,7 +3,7 @@ import HeroElypse from "./heroElypse";
 
 const What = () => {
   return (
-    <div className="pt-10 pb-4 px-10 relative h-full mt-20 w-full bg-[#0F4279]  shadow-md mx-auto flex flex-col">
+    <div className="pt-10 pb-0 px-10 relative h-[60vh] lg:h-[45vh] mt-20 w-full bg-[#0F4279]  shadow-md mx-auto flex flex-col">
       <HeroElypse />
 
       <div className="flex flex-col  md:items-start">
