@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="bg-[#031B34] mt-8 m-8 md:m-0 md:mt-24">
+    <div className="bg-[#031B34] mt-8">
       <div className="flex flex-col items-center gap-14  ">
         <p className="w-1/2 mt-16  text-center font-bold text-transparent text-2xl md:text-4xl bg-clip-text bg-gradient-to-r from-[#AE67FA] to-[#F49867]">
           Do you want to step in to the future before others
